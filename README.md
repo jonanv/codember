@@ -21,5 +21,5 @@ Solutions for the challenges from https://codember.dev/
 | [-] 2022      | [Readme][codember2022-readme]  | Codember 2022 |
 | [-] 2023      | [Readme][codember2023-readme]  | Codember 2023 |
 
-[codember2022-readme]: ./2022/readme.md
-[codember2023-readme]: ./2023/readme.md
+[codember2022-readme]: ./2022/README.md
+[codember2023-readme]: ./2023/README.md

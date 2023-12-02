@@ -16,10 +16,10 @@ Solutions for the challenges from https://codember.dev/
 
 ## Challenges ⛰️
 
-| Challenge | Name                                      |                                    |
+| Challenge | Name                                      | Solution                           |
 | --------- | ----------------------------------------- | ---------------------------------- |
-| 1         | Fix Twitter!                              | [solution](./challenge01/index.js) |
-| 2         | Catch those cybercriminals!               | [solution](./challenge02/index.js) |
-| 3         | Zebra of colors                           | [solution](./challenge03/index.js) |
-| 4         | Dude, I lost my password                  | [solution](./challenge04/index.js) |
-| 5         | Battle Royale of libraries and frameworks | [solution](./challenge05/index.js) |
+| 1         | Fix Twitter!                              | [Solution](./challenge01/index.js) |
+| 2         | Catch those cybercriminals!               | [Solution](./challenge02/index.js) |
+| 3         | Zebra of colors                           | [Solution](./challenge03/index.js) |
+| 4         | Dude, I lost my password                  | [Solution](./challenge04/index.js) |
+| 5         | Battle Royale of libraries and frameworks | [Solution](./challenge05/index.js) |

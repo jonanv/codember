@@ -4,11 +4,12 @@
     "description": "Solutions for the challenges from https://codember.dev/ by jonanv",
     "type": "module",
     "scripts": {
-        "challenge01": "node challenge01",
-        "challenge02": "node challenge02",
-        "challenge03": "node challenge03",
-        "challenge04": "node challenge04",
-        "challenge05": "node challenge05"
+        "challenge01:2022": "node 2022/challenge01",
+        "challenge02:2022": "node 2022/challenge02",
+        "challenge03:2022": "node 2022/challenge03",
+        "challenge04:2022": "node 2022/challenge04",
+        "challenge05:2022": "node 2022/challenge05",
+        "challenge01:2023": "node 2023/challenge01"
     },
     "author": "jonanv",
     "license": "MIT"

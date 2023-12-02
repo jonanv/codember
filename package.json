@@ -9,7 +9,8 @@
         "challenge03:2022": "node 2022/challenge03",
         "challenge04:2022": "node 2022/challenge04",
         "challenge05:2022": "node 2022/challenge05",
-        "challenge01:2023": "node 2023/challenge01"
+        "challenge01:2023": "node 2023/challenge01",
+        "challenge02:2023": "node 2023/challenge02"
     },
     "author": "jonanv",
     "license": "MIT"

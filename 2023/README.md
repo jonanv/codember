@@ -18,8 +18,8 @@ Solutions for the challenges from https://codember.dev/
 
 | Challenge | Name                                         | Solution                           |
 | :-------: | :------------------------------------------: | :--------------------------------: |
-| 1         | Un espía está enviando mensajes encriptados. | [Solution](./challenge01/index.js) |
-| 2         |                                              | [Solution](./challenge02/index.js) |
+| 1         | El reto.                                     | [Solution](./challenge01/index.js) |
+| 2         | Mini Compiler Challenge                      | [Solution](./challenge02/index.js) |
 | 3         |                                              | [Solution](./challenge03/index.js) |
 | 4         |                                              | [Solution](./challenge04/index.js) |
 | 5         |                                              | [Solution](./challenge05/index.js) |

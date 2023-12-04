@@ -20,6 +20,6 @@ Solutions for the challenges from https://codember.dev/
 | :-------: | :------------------------------------------: | :--------------------------------: |
 | 1         | El reto.                                     | [Solution](./challenge01/index.js) |
 | 2         | Mini Compiler Challenge                      | [Solution](./challenge02/index.js) |
-| 3         |                                              | [Solution](./challenge03/index.js) |
+| 3         | El Desafío del Cifrado Espía                 | [Solution](./challenge03/index.js) |
 | 4         |                                              | [Solution](./challenge04/index.js) |
 | 5         |                                              | [Solution](./challenge05/index.js) |

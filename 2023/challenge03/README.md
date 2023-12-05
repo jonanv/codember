@@ -1,7 +1,7 @@
 # ** El Desafío del Cifrado Espía **
 Un grupo de espías ha descubierto que su sistema de cifrado de mensajes está comprometido.
 
-Han encontrado algunas contraseñas que no cumplen con laPolítica de Seguridad de Cifrado que tenían establecida cuando fueron creadas.
+Han encontrado algunas contraseñas que no cumplen con la Política de Seguridad de Cifrado que tenían establecida cuando fueron creadas.
 
 Para solucionar el problema, han creado una lista (tu entrada al desafío) de contraseñas (según la base de datos corrupta) y la política de seguridad cuando esa clave fue establecida.
 

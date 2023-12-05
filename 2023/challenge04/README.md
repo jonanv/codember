@@ -20,7 +20,7 @@ Resultado: ❌ Falso (El checksum debería ser ac, el orden es incorrecto)
 Cada línea indica el nombre del archivo y su correspondiente checksum, separados por un guion (-).
 ```
 
-** Cómo resolverlo **
+### ** Cómo resolverlo **
 1. Analiza la lista de nombres de archivos y sus checksums que encontrarás en este archivo: https://codember.dev/data/files_quarantine.txt
 
 2. Busca el archivo real número 33 (de todos los archivos reales, el 33º en orden de aparición) y envía su checksum con submit. Por ejemplo si el archivo es xyzz33-xy, harías:

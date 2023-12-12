@@ -27,7 +27,7 @@ Resultado: ❌ Inválido (email no es válido)
 ```
 
 ### ** Cómo resolverlo **
-1. Analiza la lista de entradas de la baes de datos y detecta los inválidos: https://codember.dev/data/database_attacked.txt
+1. Analiza la lista de entradas de la base de datos y detecta los inválidos: https://codember.dev/data/database_attacked.txt
 
 2. Encuentra el primer caracter (número o letra) del username de cada usuario inválido. Júntalos por orden de aparición y descubre el mensaje oculto. Luego envíalo con submit. Por ejemplo:
 submit att4ck

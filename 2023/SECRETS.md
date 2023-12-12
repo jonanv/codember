@@ -15,14 +15,14 @@
 7. ▲ Has encontrado a Guishe! (#X3)
    * Guillermo Rauch `submit rauch`
 8. Encontraste el astronauta 🧑‍🚀 (#X8)
-   `submit majortom`
+   * `submit majortom`
 9. Ho ho ho 🎅! 
-   `npm install adventjs`
+   * `npm install adventjs`
 10. ¡Barrel roll! 🛩️
-   `do barrel roll`
+    * `do barrel roll`
 11. ¡Bug encontrado 🐛! (#X11)
-   `submit bug`
+    * `submit bug`
 12. Konami Code 🎮 (#X1)
-   `submit konami`
+    * `submit konami`
 13. Premio al salseo del año 🥫 (#X9)
-   `submit altman`
+    * `submit altman`

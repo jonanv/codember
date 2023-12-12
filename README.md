@@ -16,10 +16,10 @@ Solutions for the challenges from https://codember.dev/
 
 ## Codembers ⛰️
 
-| Year          | Readme                         | Description   |
-| :-----------: | :----------------------------: | :-----------: |
-| [-] 2022      | [Readme][codember2022-readme]  | Codember 2022 |
-| [-] 2023      | [Readme][codember2023-readme]  | Codember 2023 |
+| Year           | Readme                         | Description   |
+| :------------: | :----------------------------: | :-----------: |
+| [✅] 2022      | [Readme][codember2022-readme]  | Codember 2022 |
+| [✅] 2023      | [Readme][codember2023-readme]  | Codember 2023 |
 
 [codember2022-readme]: ./2022/README.md
 [codember2023-readme]: ./2023/README.md

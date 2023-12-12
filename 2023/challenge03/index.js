@@ -23,7 +23,8 @@ for (const value of arrayPass) {
 // console.log(invalidPasswords);
 console.log('validas: ' + validPasswords.length);
 console.log('invalida #13: ' + invalidPasswords[13]);
-console.log('invalida #42: ' + invalidPasswords[41]);
+console.log(`invalida #42: ${ invalidPasswords[41] }`);
+console.log(`submit ${ invalidPasswords[41].split(' ')[2] }`);
 
 
 function validatePass(min, max, letter, pass) {

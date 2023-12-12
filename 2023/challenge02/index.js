@@ -23,4 +23,4 @@ arrayCompiler.map((operation) => {
     }
 });
 
-console.log(chain);
+console.log(`submit ${ chain }`);

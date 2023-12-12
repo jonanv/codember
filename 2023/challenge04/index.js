@@ -9,7 +9,8 @@ arrayChecksum.forEach(element => {
     if (verifiedFiles(element)) realFiles.push(element);
 });
 console.log(realFiles);
-console.log('archivo real #33: ', realFiles[32]);
+console.log(`archivo real #33: ${ realFiles[32] }`);
+console.log(`submit ${ realFiles[32].split('-')[0] }`);
 
 function verifiedFiles(elementChecksum) {
     let [chain, checksum] = elementChecksum.split('-');

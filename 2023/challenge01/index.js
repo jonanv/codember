@@ -16,4 +16,4 @@ let chainAnimals = '';
 for (const [key, value] of Object.entries(animals)) {
     chainAnimals += key + value;
 }
-console.log(chainAnimals);
+console.log(`submit ${ chainAnimals }`);
